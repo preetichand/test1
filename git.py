@@ -4,3 +4,4 @@ if name=="preeti":
     print("hii")
 else:
     print("sorry")
+print("HII why")
